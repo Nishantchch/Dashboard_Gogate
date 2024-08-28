@@ -1,0 +1,1 @@
+export const Main_path = "http://206.189.141.51:8559/api/v1"

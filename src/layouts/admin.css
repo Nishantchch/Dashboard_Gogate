@@ -1,0 +1,71 @@
+@media only screen and (max-width: 1440px) {
+  .main-content {
+    margin-left: 17.3% !important;
+  }
+}
+
+@media only screen and (max-width: 1280px) {
+  .main-content {
+    margin-left: 19.5% !important;
+  }
+}
+@media only screen and (max-width: 1104px) {
+  .main-content {
+    margin-left: 22.6% !important;
+  }
+}
+@media only screen and (max-width: 1150px) {
+  .main-content {
+    margin-left: 21.7% !important;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .main-content {
+    margin-left: 24.4% !important;
+  }
+}
+@media only screen and (max-width: 1050px) {
+  .main-content {
+    margin-left: 24% !important;
+  }
+}
+@media only screen and (max-width: 912px) {
+  .main-content {
+    margin-left: 27.2% !important;
+  }
+  .halfnnav {
+    margin-left: 20% !important;
+  }
+}
+@media only screen and (max-width: 820px) {
+  .main-content {
+    margin-left: 30.5% !important;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .main-content {
+    margin-left: 32.5% !important;
+  }
+}
+/* @media only screen and (max-width: 744px) {
+  .main-content {
+    margin-left: 0% !important;
+  }
+} */
+.mainText {
+  margin-left: 0% !important;
+}
+@media only screen and (max-width: 540px) {
+  .main-content {
+    margin-left: 0% !important;
+  }
+  .main-content {
+    margin-top: 2% !important;
+  }
+}
+
+@media only screen and (max-width: 572px) {
+  .main-content {
+    margin-left: 0% !important;
+  }
+}

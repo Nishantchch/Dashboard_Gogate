@@ -1,0 +1,45 @@
+.logo {
+  position: absolute;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 540px) {
+  .side {
+    width: 100% !important;
+  }
+  #topnav {
+    margin-right: 0% !important;
+    margin-left: 8%;
+    font-size: 3.5vw !important;
+  }
+  .navbar-collapse {
+    position: relative !important;
+  }
+}
+
+@media only screen and (max-width: 720px) {
+  #sidenav-main {
+    width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 744px) {
+  #sidenav-main {
+    width: 100% !important;
+  }
+}
+@media only screen and (max-width: 756px) {
+  #sidenav-main {
+    width: 100% !important;
+  }
+}
+@media only screen and (max-width: 760px) {
+  #sidenav-main {
+    width: 100% !important;
+  }
+}
+@media only screen and (max-width: 766px) {
+  #sidenav-main {
+    width: 100% !important;
+  }
+}
